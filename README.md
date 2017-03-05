@@ -1,2 +1,2 @@
-# armory
-Unique Blogging Platform
+# Armory
+All the weapons for the Hack
